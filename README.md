@@ -6,4 +6,4 @@ This is just a landing page until we port over the content.
 
 Members presently include:
   - [OpenPlus](https://openplus.ca/)
-  - [OpenConceopt](https://openconcept.ca/)
+  - [OpenConcept](https://openconcept.ca/)
