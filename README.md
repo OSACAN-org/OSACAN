@@ -46,7 +46,7 @@ Adoption of open source in federal, provincial and municipal governments is acce
 
 
 ## Open Source Alliance of Canada
-** A registered Canadian non-profit organization **
+**A registered Canadian non-profit organization**
 
     1680 Vimont Crt, Suite 200
     Ottawa, Ontario
